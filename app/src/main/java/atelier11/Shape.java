@@ -26,6 +26,8 @@ abstract public class Shape {
     {
         this.filled = filled;
     }
+
+    @Override
     public String toString()
     {
         return "Shape de couleur :" + color + " filled: " + filled;
