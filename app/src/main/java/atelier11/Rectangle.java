@@ -1,7 +1,5 @@
 package atelier11;
 
-import java.time.chrono.HijrahEra;
-
 public class Rectangle extends Shape{
     private double width;
     private double length;
